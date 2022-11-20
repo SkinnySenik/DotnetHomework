@@ -1,0 +1,16 @@
+C:\Users\Арсений\Desktop\Homework\HomeworkDotnet2\obj\Debug\net6.0\HomeworkDotnet2.GlobalUsings.g.cs
+C:\Users\Арсений\Desktop\Homework\HomeworkDotnet2\obj\Debug\net6.0\HomeworkDotnet2.csproj.AssemblyReference.cache
+C:\Users\Арсений\Desktop\Homework\HomeworkDotnet2\obj\Debug\net6.0\HomeworkDotnet2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Арсений\Desktop\Homework\HomeworkDotnet2\obj\Debug\net6.0\HomeworkDotnet2.AssemblyInfoInputs.cache
+C:\Users\Арсений\Desktop\Homework\HomeworkDotnet2\obj\Debug\net6.0\HomeworkDotnet2.AssemblyInfo.cs
+C:\Users\Арсений\Desktop\Homework\HomeworkDotnet2\obj\Debug\net6.0\HomeworkDotnet2.csproj.CoreCompileInputs.cache
+C:\Users\Арсений\Desktop\Homework\HomeworkDotnet2\bin\Debug\net6.0\HomeworkDotnet2.exe
+C:\Users\Арсений\Desktop\Homework\HomeworkDotnet2\bin\Debug\net6.0\HomeworkDotnet2.deps.json
+C:\Users\Арсений\Desktop\Homework\HomeworkDotnet2\bin\Debug\net6.0\HomeworkDotnet2.runtimeconfig.json
+C:\Users\Арсений\Desktop\Homework\HomeworkDotnet2\bin\Debug\net6.0\HomeworkDotnet2.dll
+C:\Users\Арсений\Desktop\Homework\HomeworkDotnet2\bin\Debug\net6.0\ref\HomeworkDotnet2.dll
+C:\Users\Арсений\Desktop\Homework\HomeworkDotnet2\bin\Debug\net6.0\HomeworkDotnet2.pdb
+C:\Users\Арсений\Desktop\Homework\HomeworkDotnet2\obj\Debug\net6.0\HomeworkDotnet2.dll
+C:\Users\Арсений\Desktop\Homework\HomeworkDotnet2\obj\Debug\net6.0\ref\HomeworkDotnet2.dll
+C:\Users\Арсений\Desktop\Homework\HomeworkDotnet2\obj\Debug\net6.0\HomeworkDotnet2.pdb
+C:\Users\Арсений\Desktop\Homework\HomeworkDotnet2\obj\Debug\net6.0\HomeworkDotnet2.genruntimeconfig.cache
